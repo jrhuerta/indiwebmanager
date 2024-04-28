@@ -21,7 +21,7 @@ setup(
     package_dir={'indiweb': 'indiweb'},
     include_package_data=True,
     install_requires=['requests', 'psutil', 'bottle'],
-    license='LGPL',
+    license='LGPLv2',
     zip_safe=False,
     test_suite='tests',
     platforms=['any'],
